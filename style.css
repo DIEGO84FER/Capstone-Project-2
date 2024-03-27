@@ -108,9 +108,13 @@ p {
 
 .footer-link {
     color: rgb(255, 255, 255);
-    text-decoration: dashed;
 }
 
 .footer-background {
     background-image: linear-gradient(to bottom right, #95cad89e, #c3c0e5);
+}
+
+a {
+    text-decoration: none !important;
+    color: inherit;
 }
